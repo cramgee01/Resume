@@ -1,0 +1,93 @@
+body {background-image: url("images/backgroundblue.png");
+	  text-align: center; 
+	  font-family: "Century Gothic"; 
+	  font-weight: bold; 
+
+	  }
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  opacity: 0.8;
+  border-radius: 25px;
+  }
+    h3{	border-style: double; 
+    	color: black;
+    	background-color: #33ccff;
+    }
+    p{color: #00ffcc;
+      font-size: 22px;
+      letter-spacing: 2px;
+
+
+    }
+    p1{
+    	color: purple;
+    }
+  a:link {
+  color: red;
+  }
+
+  a:visited {
+  color: grey
+  }
+
+  a:active {
+  color: black
+  }
+  li {
+  float: left;
+  }
+
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 25px;
+  }
+
+a:hover {
+  background-color: #111;
+  color: #0099ff;
+}
+
+a.active{
+  background-color: #0099ff;
+  color: #111;
+}
+.image{
+  width: 150px;
+
+}
+.table{
+  text-align:left;
+  margin-right: auto;
+  margin-left: auto;
+}
+.wantotre{
+  font-weight: bolder;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #b3ffff;
+}
+.wantopor{
+  font-weight: lighter;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #33ccff;
+
+}
+
+}
+.pic{
+  width: 250px;
+  height: 250px;
+}
+h1{
+  color: #00e6e6;
+}
